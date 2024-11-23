@@ -32,8 +32,7 @@ css_style = """
 
 with gr.Blocks(css=css_style) as demo:
 
-    gr.Markdown("<h1 style='text-align: center;'>Jimmy Translate!</h1>")
-    gr.Markdown("<h2 style='text-align: center;'>Seduce any girl in French or English!</h2>")
+    gr.Markdown("<h1 style='text-align: center;'>EasyTalk!</h1>")
    
     gender_selector = gr.Radio(choices=["man", "woman"], label="Select Gender", value="man")
     with gr.Row():
