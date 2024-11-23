@@ -1,0 +1,12 @@
+speech-to-speech/
+wav_samples/
+m4a_samples/
+piper/
+onnx_helsinki_fr_to_en/
+onnx_helsinki_en_to_fr/
+whisper-base_quantized/
+onnx_quantized_en_to_fr/
+onnx_quantized_fr_to_en/
+onnx_helsinki_model/
+
+
