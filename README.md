@@ -1,1 +1,1 @@
-# ConsumerEdgeHackaton-Easytalk
+This is the repo for EasyTalk project developed during Consumer AI Edge Hackaton. Easytalk is a solution designed to help volunteers communicate effectively with communities during natural disasters or in disconnected areas. It is designed to work locally. It is a speech-to-speech made of 3 blocks : a speech-to-text model with faster-whisper
